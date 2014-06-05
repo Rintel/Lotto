@@ -1,2 +1,2 @@
-C---Projects
+Lotto Spiel in C++
 ============
